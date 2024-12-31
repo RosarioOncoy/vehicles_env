@@ -1,6 +1,5 @@
 [server]
 headless = true
-port = $PORT  # Permite que Render asigne el puerto
 
 [theme]
 primaryColor = '#007aff'
